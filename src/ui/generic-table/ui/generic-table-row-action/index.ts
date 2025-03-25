@@ -1,0 +1,1 @@
+export { GenericTableRowAction } from './ui';

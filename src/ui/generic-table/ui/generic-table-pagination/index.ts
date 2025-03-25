@@ -1,0 +1,1 @@
+export { GenericTablePagination } from './ui';
