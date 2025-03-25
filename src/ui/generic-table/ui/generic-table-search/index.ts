@@ -1,0 +1,1 @@
+export { GenericTableSearch } from './ui';
